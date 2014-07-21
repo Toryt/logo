@@ -1,4 +1,4 @@
 logo
 ====
 
-The original Toryt log (created in the now defunct fantastic Canvas)
+The original Toryt logo (created in the now defunct fantastic Canvas).
